@@ -7,5 +7,5 @@
 6. Find the Check digit of UPC code
 
 To run the code just type in terminal 
-#chmod +x bash.sh
+#chmod +x bash.sh                              
 #./bash.sh
