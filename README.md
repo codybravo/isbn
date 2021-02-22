@@ -5,3 +5,7 @@
 4. Find missing digit of a ISBN
 5. Validation of UPC
 6. Find the Check digit of UPC code
+
+To run the code just type in terminal 
+#chmod +x bash.sh
+#./bash.sh
