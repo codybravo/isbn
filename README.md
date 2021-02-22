@@ -8,5 +8,4 @@
 
 To run the code just type in terminal 
 #chmod +x bash.sh
-
 #./bash.sh
